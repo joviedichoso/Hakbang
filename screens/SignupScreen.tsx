@@ -546,6 +546,7 @@ const SignupScreen: React.FC<SignupScreenProps> = ({ navigation, navigateToLandi
                 </View>
               ) : null}
             </View>
+            
           </View>
 
           {bmi && (
